@@ -8,10 +8,9 @@ This includes libs from CircuitPython to be able to easily use this repo as a co
 8.2.0
 [CircuitPython Adafruit Macropad](https://circuitpython.org/board/adafruit_macropad_rp2040/)
 
-
 ## Windows Macros
-
 * Microsoft Visual Studio Code
 * Google Chrome
 
 ## MacOS Macros
+TBD
